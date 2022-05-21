@@ -1,0 +1,3 @@
+﻿  DirectX11_SAE.cpp
+MSVCRT.lib(exe_winmain.obj) : error LNK2001: unresolved external symbol _WinMain@16
+C:\Users\Sandch\Desktop\DirectX11 Win32\DirectX11_SAE\\DirectX11_SAE.exe : fatal error LNK1120: 1 unresolved externals
